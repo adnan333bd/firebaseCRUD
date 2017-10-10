@@ -11,8 +11,8 @@ export class ShoppingListPage {
   constructor(private navCtrl: NavController, private navParams: NavParams) {
   }
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad ShoppingListPage');
+  navigateToAddShoppingPage(): void {
+    this.navCtrl.push("AddShoppingPage");
   }
 
 }
