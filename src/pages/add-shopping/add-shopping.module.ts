@@ -8,6 +8,6 @@ import { AddShoppingPage } from './add-shopping';
   ],
   imports: [
     IonicPageModule.forChild(AddShoppingPage),
-  ],
+  ]
 })
-export class AddShoppingPageModule {}
+export class AddShoppingPageModule { }

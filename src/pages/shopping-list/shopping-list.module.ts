@@ -8,7 +8,6 @@ import { ShoppingListPage } from './shopping-list';
   ],
   imports: [
     IonicPageModule.forChild(ShoppingListPage),
-  ],
-  exports : [ShoppingListPage]
+  ]
 })
 export class ShoppingListPageModule {}
