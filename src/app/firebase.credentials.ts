@@ -1,5 +1,6 @@
 export const FIREBASE_CREDENTIALS = {
-    apiKey: "AIzaSyBWhjNbnPUv1amnsLPQBOo7SdSA3IM9pBg",
+    //put you config here
+    apiKey: "",
     authDomain: "fir-crud-c3009.firebaseapp.com",
     databaseURL: "https://fir-crud-c3009.firebaseio.com",
     projectId: "fir-crud-c3009",
